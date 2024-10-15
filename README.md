@@ -7,7 +7,7 @@ I'm a Computer Science Student at Brigham Young University (BYU) with a passion 
 I’m passionate about projects that challenge conventional approaches to work and daily life. Some of my key projects include:
 
 - Floride: A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
-- [Pivot Calendar](https://www.pivotcal.com): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
+- [Pivot Calendar](https://pivotcal.com/): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
 
 ## 📂 Projects
 
