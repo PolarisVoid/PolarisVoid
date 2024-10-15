@@ -7,27 +7,27 @@ I'm a Computer Science Student at Brigham Young University (BYU) with a passion 
 I’m passionate about projects that challenge conventional approaches to work and daily life. Some of my key projects include:
 
 - Floride: A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
-- OpenSource Research Platform: An innovative platform aimed at making research more accessible for students, hobbyists, and professionals by providing tools for creating and researching new technologies.
-- Pivot Calendar: A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
+- [Pivot Calendar](pivotcal.com): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
 
 ## 📂 Projects
 
 ### 🚀 Past Projects
 
 - Rocket League AI Bot: Created a bot that learns how to play Rocket League through training and reinforcement learning.
-- UDOT App Design: Developed a winning application in the UDOT App Design Competition, placing 1st in 2019.
-- High School Rocket League Team: Competed in a national 3v3 Rocket League competition, securing 14th place.
+- [Rocket League Tournament Cup Chances](https://docs.google.com/spreadsheets/d/1XQqc1ifU6X6KuMa1nTLUFQk6xNBQ6SCVkRi0rp19zYY/edit?usp=sharing): Applied Statics to analyze the drop chance of Rocket League Tournament Cups
+- BYU Workday - End to End Automated Testing: This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
+- BYU Workday - Catcup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
 
 ### 🌱 Future Projects
 
 - PCI Board Designer: I’m planning a tool similar to Floride, but tailored toward hardware design and development.
 - ERIA - RTS Game: A real-time strategy game that blends factory building with unit management and tactical combat.
-- Expanded Memory System for AI: Exploring a structured memory system that integrates deeply into software and AI, akin to how a CPU manages applications.
+- OpenSource Research Platform: An innovative platform aimed at making research more accessible for students, hobbyists, and professionals by providing tools for creating and researching new technologies.
 
 ## 🏆 Achievements
 
 - Rocket League Bot: Developed an AI that learns and improves its gameplay.
-- UDOT Competition: Placed 1st in 2019 for app design.
+- UDOT Competition: Designed a winning application in the UDOT App Design Competition, placing 1st in 2019.
 - Rocket League Team: Ranked 14th nationally in a 3v3 high school Rocket League competition.
 
 ## 💡 Philosophy
@@ -38,7 +38,8 @@ I believe in questioning traditional methods and exploring innovative solutions 
 
 Here are some of the technologies I’m experienced with:
 
-- Languages: C++, Python, Java, C, PowerShell, Perl, HTML, JavaScript, CSS
+- Languages: C, C++, Python, Java, HTML, JavaScript, CSS
+- Scripting Laguages: Perl, PowerShell
 - Frameworks/Tools: React, Node.js
 - Cloud/DevOps: AWS (set up multiple servers, Route 53 domains, Caddy files)
 
@@ -47,5 +48,5 @@ Here are some of the technologies I’m experienced with:
 Feel free to connect with me through the following channels:
 
 Email: dallink3@gmail.com
-LinkedIn: linkedin.com/in/dallin-king
-Instagram: @dallink
+LinkedIn: [dallin-king](https://www.linkedin.com/in/dallin-king/)
+Instagram: [@dallink]()
