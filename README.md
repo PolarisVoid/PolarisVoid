@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dallin King!
 
-I'm a Computer Science Student at Brigham Young University (BYU) with a passion for software development and improving people's daily lives through technology. Currently, I'm pursuing minors in Information Systems and Psychology, which allow me to explore the intersection of technology and human behavior to create meaningful and impactful software solutions.
+I’m an inventive engineer and lifelong learner, dedicated to building tools and experiences that empower people to connect, grow, and see the world in new ways. From developing innovative software like Floride and Pivot Calendar to pursuing swing dancing, photography, and soccer, I seek both creative freedom and meaningful collaboration. My vision is to help others thrive—whether by designing intuitive solutions, teaching, or leading. Through technology and human connection, I aim to make a lasting, meaningful impact.
 
 ## 📂 Projects
 
