@@ -16,7 +16,7 @@ I’m passionate about projects that challenge conventional approaches to work a
 - Rocket League AI Bot: Created a bot that learns how to play Rocket League through training and reinforcement learning.
 - [Rocket League Tournament Cup Chances](https://docs.google.com/spreadsheets/d/1XQqc1ifU6X6KuMa1nTLUFQk6xNBQ6SCVkRi0rp19zYY/edit?usp=sharing): Applied Statics to analyze the drop chance of Rocket League Tournament Cups
 - BYU Workday - End to End Automated Testing: This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
-- BYU Workday - Catcup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
+- BYU Workday - Catchup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
 
 ### 🌱 Future Projects
 
