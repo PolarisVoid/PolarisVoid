@@ -49,4 +49,8 @@ Feel free to connect with me through the following channels:
 
 - Email: dallink3@gmail.com
 - LinkedIn: [dallin-king](https://www.linkedin.com/in/dallin-king/)
-- Instagram: [@dallink]()
+- Instagram:
+  - [@dallink](https://www.instagram.com/dallink/)
+  - [@dallincreates](https://www.instagram.com/dallincreates/)
+- Facebook: [Dallin King](https://www.facebook.com/dallin.king.279110/)
+- Website: [Dallin King](https://dallinking.com/)
