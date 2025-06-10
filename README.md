@@ -8,15 +8,15 @@ I’m an inventive engineer and lifelong learner, dedicated to building tools an
 
 I’m passionate about projects that challenge conventional approaches to work and daily life. Some of my key projects include:
 
-- Floride: A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
+- [Floride](https://dallinking.com/project/Floride): A visual software IDE that integrates the entire software life cycle, making software development easier and more maintainable.
 - [Pivot Calendar](https://pivotcal.com/): A daily planner app designed to help users manage their time more efficiently by prioritizing important events and tasks.
 
 ### 🚀 Past Projects
 
 - Rocket League AI Bot: Created a bot that learns how to play Rocket League through training and reinforcement learning.
 - [Rocket League Tournament Cup Chances](https://docs.google.com/spreadsheets/d/1XQqc1ifU6X6KuMa1nTLUFQk6xNBQ6SCVkRi0rp19zYY/edit?usp=sharing): Applied Statics to analyze the drop chance of Rocket League Tournament Cups
-- BYU Workday - End to End Automated Testing: This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
-- BYU Workday - Catchup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
+- BYU End to End Automated Testing: This was a script written in python that automated the running of all of our test cases; afterwhich, it would generate a report of what failed and succeded.
+- BYU Catchup Integration: This was a business process pipe line that caught up the data from BYU's new ERP System.
 
 ### 🌱 Future Projects
 
@@ -26,8 +26,8 @@ I’m passionate about projects that challenge conventional approaches to work a
 
 ## 🏆 Achievements
 
-- Rocket League Bot: Developed an AI that learns and improves its gameplay.
-- UDOT Competition: Designed a winning application in the UDOT App Design Competition, placing 1st in 2019.
+- Rocket League AI Bot: Developed an AI that learns and improves its gameplay.
+- [UDOT Competition](https://www.youtube.com/watch?v=pMoVSBUx1tk&t=6793s): Designed a winning application in the UDOT App Design Competition, placing 1st in 2019.
 - [Rocket League Team](https://www.instagram.com/p/CN1B2O7skEx/): Ranked 14th nationally in a 3v3 high school Rocket League competition.
 
 ## 💡 Philosophy
